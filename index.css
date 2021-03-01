@@ -1,0 +1,30 @@
+body {
+    background-attachment: scroll;
+    background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/w-qjCHPZbeXCQ-unsplash.jpg");
+}
+
+h2{
+    color: mediumblue;
+    text-align: center;
+}
+blockquote{
+    column-count: 5;
+    column-rule: 1px black solid;
+}
+img{
+    opacity: .5;
+    max-width: 100%;
+    height: auto;
+}
+input{
+    margin-top: 20px;
+}
+
+p{
+    font-size: 20px;
+    line-height: 40px;
+}
+a{
+    font-size: 20px;
+    color: blue;
+}
